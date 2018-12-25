@@ -16,7 +16,6 @@ import org.springframework.data.domain.PageImpl;
 import org.springframework.data.domain.Pageable;
 import org.springframework.util.StringUtils;
 
-import br.com.qosdesenvolvimentos.model.Categoria;
 import br.com.qosdesenvolvimentos.model.Categoria_;
 import br.com.qosdesenvolvimentos.model.Lancamento;
 import br.com.qosdesenvolvimentos.model.Lancamento_;
